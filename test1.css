@@ -1,0 +1,7 @@
+/* Circles */
+span {
+	height: 2em;
+	width: 2em;
+	border-radius: 50%;
+	display: inline-block;
+}
